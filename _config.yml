@@ -6,12 +6,10 @@ description: YuhaoCheng's Homepage
 
 # User settings
 username: Yuhao Cheng
-user_description: 
-user_title: Student
+user_description: Focs on CV/DL/IoT and other interesting things. I am in the second year of my master's degree and going to apply for the Ph.D.
+user_title: Postgraduate
 email: yuhao.cheng@outlook.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
+github_username:  YuhaoCheng
 
 # Google-analytics
 google-analytics:
