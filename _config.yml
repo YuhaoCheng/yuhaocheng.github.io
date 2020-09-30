@@ -6,7 +6,7 @@ description: YuhaoCheng's Homepage
 
 # User settings
 username: Yuhao Cheng
-user_description: Focs on CV/DL/IoT and other interesting things. I am in the second year of my master's degree and going to apply for the Ph.D.
+user_description: Focs on AI/CV/IoT and other interesting things. I am applying the PhD and going to start in 2021.
 user_title: Postgraduate
 email: yuhao.cheng@outlook.com
 github_username:  YuhaoCheng
@@ -14,5 +14,5 @@ github_username:  YuhaoCheng
 # Google-analytics
 google-analytics:
   id: ""
-
+include: ['_pages']
 exclude: ['package.json', 'src' , 'node_modules']

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+      
+        <title>Yuhao's Technological Blog</title>
+        <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+      
+        <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl }}">
+        <link rel="shortcut icon" type="image/png" href="{{ '/assets/icon.png' }}" >
+    </head>
+  <body>
+    <div id="particles-js">
+        <div class="header">
+            <h1>
+              <span class="site-title">Yuhao's Blog</span>
+              <!-- <span class="site-description">{{ site.user_title }}</span> -->
+            </h1>
+            <!-- <div>
+              {{ site.user_description }}
+            </div> -->
+            <div class="header-icons">
+              <!-- <a aria-label="Send email" href="mailto:yuhao.cheng@outlook.com"><i class="icon fa fa-envelope"></i></a> -->
+              <a aria-label="My Github" target="_blank" href="https://github.com/YuhaoCheng"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
+            </div>
+        </div>
+        <!-- <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a> -->
+    </div>
+      <section id="about">
+        <!-- {% include shortbio.html %} -->
+        <!-- {% include awards.html %} -->
+        <!-- {% include publications.html %} -->
+        <!-- {% include projects.html %} -->
+        <!-- {% include teaching.html %} -->
+      </section>
+        {{ content }}
+      {% include footer.html %}
+  </body>
+</html>
