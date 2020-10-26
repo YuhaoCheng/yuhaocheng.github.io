@@ -83,6 +83,7 @@ In order to compile the assets and run `Jekyll` locally you need to follow those
 In my machine, follow this:
 1. `cd ROOT`
 2. `sudo bundle exec jekyll server`
+3. if some pacages are missing, please run the `bundle install`
 
 # Contribution
 
