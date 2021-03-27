@@ -15,12 +15,6 @@ Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 ![](https://img.shields.io/badge/devicon-✓-blue.svg)
 ![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-***
-
-<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
-
-***
-
 # Screenshot
 
 <p align="center">
