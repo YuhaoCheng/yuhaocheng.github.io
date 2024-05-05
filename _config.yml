@@ -12,7 +12,7 @@ repository               : "YuhaoCheng/yuhaocheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-V6N8M6NCWQ
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yuhao Cheng"
+  github           : "YuhaoCheng"
   google_plus      :
   keybase          :
   instagram        :
