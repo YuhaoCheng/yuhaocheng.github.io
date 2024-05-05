@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhao's Homepage"
-description              : "The homepage of Yuhao Cheng "
+description              : ""
 repository               : "YuhaoCheng/yuhaocheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuhao Cheng \n (程昱昊)"
+  name             : "Yuhao Cheng"
   avatar           : "images/avatar.jpg"
   bio              : "AI Researcher"
   location         : "Beijing, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Yuhao Cheng"
   google_plus      :
   keybase          :
   instagram        :
