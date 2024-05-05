@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, before that I got the Master's and Bachelor's degree at Beijing University of Posts and Telecommunications and got the Bachelor's degree at Queen Mary University of London. My research interests are in Artificial Intelligence, Computer Vision, and Computer Graphics.
-
-[//]: # (I have published several papers AI conferences with total <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
+My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, before that I got the Master's and Bachelor's degree at Beijing University of Posts and Telecommunications and got the Bachelor's degree at Queen Mary University of London. My research interests are in Artificial Intelligence, Computer Vision, and Foundation Model.<a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2024.04*: &nbsp;🎉🎉 ConsistentID's paper is on arXiv.
@@ -41,16 +39,18 @@ My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, befor
 </div>
 </div>
 
-- Pose-guided tracking-by-detection: Robust multi-person pose tracking. Bao Qian, Wu Liu, **Yuhao Cheng**, Boyan Zhou, and Tao Mei. IEEE Transactions on Multimedia 23 (2020): 161-175.
+- Pose-guided tracking-by-detection: Robust multi-person pose tracking. Bao Qian, Wu Liu, **Yuhao Cheng**, Boyan Zhou, and Tao Mei. IEEE Transactions on Multimedia 2020
+- PyAnomaly: A Pytorch-based Toolkit for Video Anomaly Detection. **Yuhao Cheng**, Wu Liu, Pengrui Duan, Jingen Liu, Tao Mei. ACM Multimedia 2020
+- POINet: Pose-Guided Ovonic Insight Network for Multi-Person Pose Tracking. Weijian Ruan, Wu Liu, Qian Bao, Jun Chen, **Yuhao Cheng**, Tao Mei. ACM Multimedia 2019
 - Please refer the Google Scholar for more papers. <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'>Google Scholar</a>
 
 # 🎖 Honors and Awards
-- *2021* Distinguished Master-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications. 
-- *2021* Outstanding Graduate Award (1%), Beijing City. 
-- *2021* National Scholarship (1%), Ministry of Education, China
-- *2018* Distinguished Bachelor-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications
-- *2018* Distinguished Bachelor-Degree Dissertation Award, Queen Mary Univ. of London
-- *2018* Undergraduate Collage Prize, Queen Mary Univ. of London
+- *2021*, Distinguished Master-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications. 
+- *2021*, Outstanding Graduate Award (1%), Beijing City. 
+- *2021*, National Scholarship (1%), Ministry of Education, China
+- *2018*, Distinguished Bachelor-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications
+- *2018*, Distinguished Bachelor-Degree Dissertation Award, Queen Mary Univ. of London
+- *2018*, Undergraduate Collage Prize, Queen Mary Univ. of London
 
 # 📖 Educations
 - *2018.09 - 2021.07*, M.S. in Computer Technology, Beijing University of Posts and Telecommunications, Computer Science School. Major in the Artificial Intelligence and Computer Vision. 
