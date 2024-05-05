@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuhao Cheng(程昱昊)"
+  name             : "Yuhao Cheng \n (程昱昊)"
   avatar           : "images/avatar.jpg"
   bio              : "AI Researcher"
   location         : "Beijing, China"
