@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhao Cheng(程昱昊)"
   avatar           : "images/avatar.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "AI Researcher"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl"
-  email            : "Lorem@ipsum.com"
+  email            : "yuhao.cheng@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
