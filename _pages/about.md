@@ -22,8 +22,9 @@ My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, befor
 [//]: # (I have published several papers AI conferences with total <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> &#40;You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.04*: &nbsp;🎉🎉 ConsistentID's paper is on arXiv.
+
+[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
 
@@ -35,7 +36,8 @@ My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, befor
 [//]: # (**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun)
 
 [**Project Homepage**](https://ssugarwh.github.io/consistentid.github.io/)
-- Diffusion-based technologies have made significant strides, particularly in personalized and customized facialgeneration. However, existing methods face challenges in achieving high-fidelity and detailed identity (ID)consistency, primarily due to insufficient fine-grained control over facial areas and the lack of a comprehensive strategy for ID preservation by fully considering intricate facial details and the overall face. To address these limitations, we introduce ConsistentID, an innovative method crafted for diverseidentity-preserving portrait generation under fine-grained multimodal facial prompts, utilizing only a single reference image. ConsistentID comprises two key components: a multimodal facial prompt generator that combines facial features, corresponding facial descriptions and the overall facial context to enhance precision in facial details, and an ID-preservation network optimized through the facial attention localization strategy, aimed at preserving ID consistency in facial regions. Together, these components significantly enhance the accuracy of ID preservation by introducing fine-grained multimodal ID information from facial regions. To facilitate training of ConsistentID, we present a fine-grained portrait dataset, FGID, with over 500,000 facial images, offering greater diversity and comprehensiveness than existing public facial datasets. % such as LAION-Face, CelebA, FFHQ, and SFHQ. Experimental results substantiate that our ConsistentID achieves exceptional precision and diversity in personalized facial generation, surpassing existing methods in the MyStyle dataset. Furthermore, while ConsistentID introduces more multimodal ID information, it maintains a fast inference speed during generation. 
+
+[//]: # (- Diffusion-based technologies have made significant strides, particularly in personalized and customized facialgeneration. However, existing methods face challenges in achieving high-fidelity and detailed identity &#40;ID&#41;consistency, primarily due to insufficient fine-grained control over facial areas and the lack of a comprehensive strategy for ID preservation by fully considering intricate facial details and the overall face. To address these limitations, we introduce ConsistentID, an innovative method crafted for diverseidentity-preserving portrait generation under fine-grained multimodal facial prompts, utilizing only a single reference image. ConsistentID comprises two key components: a multimodal facial prompt generator that combines facial features, corresponding facial descriptions and the overall facial context to enhance precision in facial details, and an ID-preservation network optimized through the facial attention localization strategy, aimed at preserving ID consistency in facial regions. Together, these components significantly enhance the accuracy of ID preservation by introducing fine-grained multimodal ID information from facial regions. To facilitate training of ConsistentID, we present a fine-grained portrait dataset, FGID, with over 500,000 facial images, offering greater diversity and comprehensiveness than existing public facial datasets. % such as LAION-Face, CelebA, FFHQ, and SFHQ. Experimental results substantiate that our ConsistentID achieves exceptional precision and diversity in personalized facial generation, surpassing existing methods in the MyStyle dataset. Furthermore, while ConsistentID introduces more multimodal ID information, it maintains a fast inference speed during generation. )
 </div>
 </div>
 
@@ -43,8 +45,12 @@ My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, befor
 - Please refer the Google Scholar for more papers. <a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'>Google Scholar</a>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021* Distinguished Master-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications. 
+- *2021* Outstanding Graduate Award (1%), Beijing City. 
+- *2021* National Scholarship (1%), Ministry of Education, China
+- *2018* Distinguished Bachelor-Degree Dissertation Award, Beijing Univ. of Posts and Telecommunications
+- *2018* Distinguished Bachelor-Degree Dissertation Award, Queen Mary Univ. of London
+- *2018* Undergraduate Collage Prize, Queen Mary Univ. of London
 
 # 📖 Educations
 - *2018.09 - 2021.07*, M.S. in Computer Technology, Beijing University of Posts and Telecommunications, Computer Science School. Major in the Artificial Intelligence and Computer Vision. 
