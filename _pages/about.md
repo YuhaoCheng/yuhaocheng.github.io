@@ -64,5 +64,5 @@ My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, befor
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Work Experience
-- *2017.06 - 2021.05*, **Algorithm Intern**, JD, China.
+- *2018.06 - 2021.05*, **Algorithm Intern**, JD, China.
 - *2021.07 - Now*, **Researcher**, [Lenovo Research](https://research.lenovo.com/webapp/view/index.html), China
