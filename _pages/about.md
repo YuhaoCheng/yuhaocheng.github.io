@@ -20,6 +20,8 @@ redirect_from:
 My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, before that I got the Master's and Bachelor's degree at Beijing University of Posts and Telecommunications and got the Bachelor's degree at Queen Mary University of London. My research interests are in Artificial Intelligence, Computer Vision, and Foundation Model.<a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2024.10*: One paper is on NeurIPS 2024
+- *2024.07*: One Paper is on ECCV 2024
 - *2024.04*: &nbsp;🎉🎉 ConsistentID's paper is on arXiv.
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
