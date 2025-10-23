@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuhao Cheng, and I'm currently a Researcher at Lenovo Research, before that I got the Master's and Bachelor's degree at Beijing University of Posts and Telecommunications and got the Bachelor's degree at Queen Mary University of London. My research interests are in Artificial Intelligence, Computer Vision, and Foundation Model.<a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Yuhao Cheng is a Staff Researcher at Lenovo Research. He received the Master’s degree from the School of Computer Science, Beijing University of Posts and Telecommunications, in 2021; the Bachelor’s degree from the International School, Beijing University of Posts and Telecommunications, in 2018; and the Bachelor’s degree from Queen Mary University of London. His graduation thesis received the Distinguished Master-Degree Dissertation Award from Beijing University of Posts and Telecommunications in 2021, and he has published multiple papers in top-tier conferences and journals. He serves as the reviewer of CVPR, ICCV, AAAI, ACM MM, WACV, TMM, and is a member of IEEE and ACM. He currently focuses on the Computer Use Agent and RL of multi-modality large language models.<a href='https://scholar.google.com/citations?user=Uki0KqEAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2024.10*: One paper is on NeurIPS 2024
